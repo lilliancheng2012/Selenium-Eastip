@@ -1,0 +1,5 @@
+<LoginPage>
+<Element name="username" value="//input[@name='user']" />
+<Element name="password" value="//input[@name='pwd']" />
+<Element name="btn" value="//input[@name='btn']" />
+</LoginPage>
